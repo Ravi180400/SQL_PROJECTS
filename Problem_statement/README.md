@@ -1,1 +1,1 @@
-
+I’ve uploaded a problem statement outlining the project objectives and an ER diagram illustrating the relationships between the datasets. This is part of a comprehensive election data analysis project using datasets like partywise results and constituency-wise details.
